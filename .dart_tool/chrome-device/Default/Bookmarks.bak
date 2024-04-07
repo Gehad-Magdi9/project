@@ -1,0 +1,116 @@
+{
+   "checksum": "fca88c7bc485ddee9e37e9028e95738e",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13278544963525757",
+            "date_last_used": "13353193279375476",
+            "guid": "a7628bbf-27a0-4984-b98a-269965042b6c",
+            "id": "7",
+            "name": "Gmail",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13278544963527167",
+            "date_last_used": "13356443432282378",
+            "guid": "8fb87c79-46a8-479e-a5ab-384dd1de669f",
+            "id": "8",
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13278544963528008",
+            "date_last_used": "0",
+            "guid": "330ba99c-31b5-48e5-9b72-92197e7ab490",
+            "id": "9",
+            "name": "Maps",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         }, {
+            "date_added": "13278544968435861",
+            "date_last_used": "13323712710406030",
+            "guid": "fd27a0e3-c4f3-406f-9068-22e8fb7c8d87",
+            "id": "10",
+            "name": "Translate",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://translate.google.com/"
+         }, {
+            "date_added": "13342607339097560",
+            "date_last_used": "13343761201231743",
+            "guid": "b165d2cc-a3fb-44a3-a937-e149ea53a80a",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Welcome - gitpod - Gitpod Code",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://gehadmagdi9-gitpod-gm2ghawtpyv.ws-eu105.gitpod.io/"
+         }, {
+            "date_added": "13346945853721266",
+            "date_last_used": "13347621228734640",
+            "guid": "19c19315-0f3e-4a75-a648-386379d0e9fb",
+            "id": "12",
+            "name": "Blackbox",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.blackbox.ai/"
+         }, {
+            "date_added": "13348957041146692",
+            "date_last_used": "0",
+            "guid": "77aba2e1-fdb8-4e1e-b8b0-01f1ab091bda",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ChatGPT",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://chat.openai.com/"
+         } ],
+         "date_added": "13356922370543735",
+         "date_last_used": "0",
+         "date_modified": "13348957041146692",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13356922370543739",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13356922370543741",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCE+BBbaOAQAAEgAqGGt5NkZ2VFFqckhQRVRST1BYMWNDcHc9PUgDoAYMEokBCAMShAEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJGFmOWRiZmYyLTk3MzQtNTU0Ny1hZDUwLWRkODM4ODkzYzE3MRgAIAAoADCgg5a6sjA4hrul2e0vQIa7pdntL0oceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAASqAEIDRKjAQocZE05KytZWEtsQ2lNWTI4d2JMQ2JsVUJkbldrPRIkNzdhYmEyZTEtZmRiOC00ZTFlLWI4YjAtMDFmMWFiMDkxYmRhGAAgACgAMM20hNnNMTi9toTZzTFAvbaE2c0xShxlY1hXQXBBNjE5WHhwNDFTVFVraHNXNG9ndW89Wh8iHf1DcERyRmxzQWM2dnh2dzJldG5WSmxBQU1QQ2M9ZWkbIvMSpwEIBxKiAQoceC9SRHlWQjZVQXdaSlFlck9PZDF0Y1l1aG1vPRIkYTc2MjhiYmYtMjdhMC00OTg0LWI5OGEtMjY5OTY1MDQyYjZjGAAgAigCMP7Qmq/rMTi+w57FjDBA//2ar+sxShxLMFg4cGxxaTltUXYvZnpCdjlsTGV6VEJuTDQ9Wh4iHHJwZFlLUzl1VHhjK1JSQUhXVHF6MVR5QzVZTT1lmz2FthKoAQgIEqMBChxZQi9XbnEvMyttcWlPS2Zwd3V6Mm9uMkN4MTA9EiQ4ZmI4N2M3OS00NmE4LTQ3OWUtYTVhYi0zODRkZDFkZTY2OWYYACACKAIw/9Car+sxON3DnsWMMECA/pqv6zFKHHVOMmV2Y1VSM21YLytsQjJHbEtLcjQ2UXFMUT1aHyIduTU5VkxxT3lGSHF1Sk5YUDVaeU1wS2ZobUdxST1lOPk5MxKJAQgCEoQBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiQ0YWVlODlkZC1kYzYzLTU5MjAtOGNmZC1lOGZmMGM3MWE3YTAYACAAKAAwoIOWurIwOPa6pdntL0D2uqXZ7S9KHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEqgBCAoSowEKHDdpNXRaZHhEN05nYUhmQnU3TnIyT29Rb0Rwaz0SJGZkMjdhMGUzLWM0ZjMtNDA2Zi05MDY4LTIyZThmYjdjOGQ4NxgAIAIoAjD90Jqv6zE4rsOexYwwQIH+mq/rMUocbTZyeFRkaDJVMVIraFQ3TnBmb2kvMmtOL2JBPVofIh3uS2lwdmkzdTJqSEFLYXRFUnpqOWk5WWwrbm53PWXFz5ABEokBCAEShAEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJGRjZjRjOGVhLTVkNjItNTYzMC04ZmFkLTVmN2JkMzQ0MGU2ZBgAIAAoADCgg5a6sjA487ul2e0vQPO7pdntL0ocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAASqAEICRKjAQocNHFkVS9peGxtRWk4c1ltVFk5OWJ5WmQyUFZrPRIkMzMwYmE5OWMtMzFiNS00OGU1LTliNzItOTIxOTdlN2FiNDkwGAAgAigCMIDRmq/rMTjsw57FjDBAgf6ar+sxShw1VXRjMGVuQVVCOVRqNndKR1ptc2Q0R3ZFbmM9Wh8iHdxFbjdmNjZlRjhYaERLMEdZME50S0xtVkliZDg9ZaT76JgSqAEICxKjAQocaFlESFFGL1pzYi9iMHdLU3NZR0RLRzNSWklZPRIkYjE2NWQyY2MtYTNmYi00NGEzLWE5MzctZTE0OWVhNTNhODBhGAAgAigCMIHRmq/rMTjPlqKFtjFAgv6ar+sxShxGV1RzMTVGKzlRZVVUdzB6NXBIRHlHdk9CTUU9Wh8iHfcxOUJOY25WdGZ2MGNxQ1lLTDJweWkvUldLM2c9ZQYolpASqAEIDBKjAQocNmhMQjN5WXdoWkVtejY5MUFqMFlMWWc4dHhJPRIkMTljMTkzMTUtMGYzZS00YTc1LWE2NDgtMzg2Mzc5ZDBlOWZiGAAgACgAMOniidzIMTj1hoSaxjFA9YaEmsYxShxzeUVSUmdJd01xZU9CN1lvMjIwc1lzT3RweVU9Wh8iHft6MkIvc0NUdmYrcnl1SnFGd3R2cGpXR0h5Y0U9ZUKVjnYwADgA",
+   "version": 1
+}

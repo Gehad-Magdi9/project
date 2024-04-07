@@ -1,0 +1,98 @@
+{
+   "checksum": "e4308ed0b37ae778fe69586fde623be9",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13278544963525757",
+            "date_last_used": "13353193279375476",
+            "guid": "a7628bbf-27a0-4984-b98a-269965042b6c",
+            "id": "7",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13278544963527167",
+            "date_last_used": "13356443432282378",
+            "guid": "8fb87c79-46a8-479e-a5ab-384dd1de669f",
+            "id": "8",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13278544963528008",
+            "date_last_used": "0",
+            "guid": "330ba99c-31b5-48e5-9b72-92197e7ab490",
+            "id": "9",
+            "name": "Maps",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         }, {
+            "date_added": "13278544968435861",
+            "date_last_used": "13323712710406030",
+            "guid": "fd27a0e3-c4f3-406f-9068-22e8fb7c8d87",
+            "id": "10",
+            "name": "Translate",
+            "type": "url",
+            "url": "https://translate.google.com/"
+         }, {
+            "date_added": "13342607339097560",
+            "date_last_used": "13343761201231743",
+            "guid": "b165d2cc-a3fb-44a3-a937-e149ea53a80a",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Welcome - gitpod - Gitpod Code",
+            "type": "url",
+            "url": "https://gehadmagdi9-gitpod-gm2ghawtpyv.ws-eu105.gitpod.io/"
+         }, {
+            "date_added": "13346945853721266",
+            "date_last_used": "13347621228734640",
+            "guid": "19c19315-0f3e-4a75-a648-386379d0e9fb",
+            "id": "12",
+            "name": "Blackbox",
+            "type": "url",
+            "url": "https://www.blackbox.ai/"
+         }, {
+            "date_added": "13348957041146692",
+            "date_last_used": "0",
+            "guid": "77aba2e1-fdb8-4e1e-b8b0-01f1ab091bda",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ChatGPT",
+            "type": "url",
+            "url": "https://chat.openai.com/"
+         } ],
+         "date_added": "13356922370543735",
+         "date_last_used": "0",
+         "date_modified": "13348957041146692",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13356922370543739",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13356922370543741",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
