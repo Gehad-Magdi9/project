@@ -1,5 +1,7 @@
-2024/04/07-16:10:23.288 10cc Reusing MANIFEST C:\Users\Gehad\AppData\Local\Temp\flutter_tools.2f6c61a5\flutter_tools_chrome_device.3e9da25a\Default\Asset Store\assets.db/MANIFEST-000001
-2024/04/07-16:10:23.291 10cc Recovering log #7
-2024/04/07-16:10:23.313 10cc Reusing old log C:\Users\Gehad\AppData\Local\Temp\flutter_tools.2f6c61a5\flutter_tools_chrome_device.3e9da25a\Default\Asset Store\assets.db/000007.log 
-2024/04/07-16:10:23.315 10cc Delete type=0 #3
-2024/04/07-16:10:23.315 10cc Delete type=0 #4
+2024/04/14-03:34:23.708 39b8 Reusing MANIFEST C:\Users\Gehad\AppData\Local\Temp\flutter_tools.b7b573de\flutter_tools_chrome_device.65885907\Default\Asset Store\assets.db/MANIFEST-000001
+2024/04/14-03:34:23.711 39b8 Recovering log #7
+2024/04/14-03:34:23.717 39b8 Level-0 table #9: started
+2024/04/14-03:34:23.908 39b8 Level-0 table #9: 727474 bytes OK
+2024/04/14-03:34:23.927 39b8 Delete type=0 #3
+2024/04/14-03:34:23.927 39b8 Delete type=0 #4
+2024/04/14-03:34:23.928 39b8 Delete type=0 #7

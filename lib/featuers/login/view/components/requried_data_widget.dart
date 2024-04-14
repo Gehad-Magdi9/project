@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:project/core/utilis/validation.dart';
+// ignore: unused_import
+// import 'package:project/featuers/registration/controller/cubit/registration_cubit.dart';
 
-class RequriedDataWiedget extends StatelessWidget {
-  const RequriedDataWiedget({super.key});
+class LoginRequriedDataWiedget extends StatelessWidget {
+  const LoginRequriedDataWiedget({super.key});
   @override
   Widget build(BuildContext context) {
     return Column(
@@ -19,7 +21,7 @@ class RequriedDataWiedget extends StatelessWidget {
         ////email
         TextFormField(
           autovalidateMode: AutovalidateMode.onUserInteraction,
-          controller: TextEditingController(),
+          // controller: TextEditingController(),
           keyboardType: TextInputType.name,
           validator: MyValidation().emailvalidate,
           decoration: InputDecoration(
@@ -45,7 +47,7 @@ class RequriedDataWiedget extends StatelessWidget {
         ///password
         TextFormField(
           autovalidateMode: AutovalidateMode.onUserInteraction,
-          controller: TextEditingController(),
+          // controller: TextEditingController(),
           keyboardType: TextInputType.name,
           validator: MyValidation().passwordValidate,
           obscureText: true,
@@ -69,7 +71,6 @@ class RequriedDataWiedget extends StatelessWidget {
         const SizedBox(
           height: 30,
         ),
-
       ],
     );
   }
