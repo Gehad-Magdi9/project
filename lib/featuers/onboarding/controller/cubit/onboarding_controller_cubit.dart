@@ -9,7 +9,7 @@ class OnboardingControllerCubit extends Cubit<OnboardingControllerCubitState> {
   PageController pageController = PageController();
   void onChangeToNext() {
     pageController.nextPage(
-        duration: const Duration(seconds: 2), curve: Curves.bounceIn);
+        duration: const Duration(seconds:250), curve: Curves.linear);
   }
   List data = [
     OnboardingModel(
