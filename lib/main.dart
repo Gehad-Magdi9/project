@@ -1,16 +1,19 @@
 import 'package:device_preview/device_preview.dart';
 import 'package:flutter/material.dart';
+import 'package:project/core/utilis/our_firebase.dart';
 import 'package:project/featuers/dashboard/view/page/dashboard_page.dart';
-import 'package:project/featuers/login/view/page/login_page.dart';
+import 'package:project/featuers/authntication/login/view/page/login_page.dart';
 import 'package:project/featuers/onboarding/view/page/onboarding_page.dart';
-import 'package:project/featuers/registration/view/page/registration_page.dart';
-
+import 'package:project/featuers/authntication/registration/view/page/registration_page.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
+  
+  await OurFirebase().init();
+  
   SharedPreferences sharedPreferences = await SharedPreferences.getInstance();
-  // ignore: unused_local_variable
+    // ignore: unused_local_variable
   bool onBoarding = sharedPreferences.getBool('onboarding') ?? false;
 
   MaterialApp materialApp = MaterialApp(

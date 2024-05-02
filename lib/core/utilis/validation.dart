@@ -34,7 +34,7 @@ class MyValidation {
     // Password meets all criteria
     return "valid password";
   }
-
+    
   String? emailvalidate(String? email) {
     // Regular expression for validating email addresses
     final RegExp emailRegex = RegExp(
@@ -66,4 +66,26 @@ class MyValidation {
       return "invalid phone";
     }
   }
+
+   //code for amera 
+  String? emailValidation(String? input) {
+  RegExp reg = RegExp (r'^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$');
+    if(reg.hasMatch(input??"a")){
+      return null;
+    }
+    return "invalid email";
+  }
+  /*Minimum 1 Upper case
+    Minimum 1 lowercase
+    Minimum 1 Numeric Number
+    Minimum 1 Special Character*/
+   String? passwordValidation(String? value) {
+    RegExp regex =
+        RegExp(r'^(?=.*?[A-Z])(?=.*?[a-z])(?=.*?[0-9])(?=.*?[!@#\$&*~]).{8,}$');
+   
+      if (regex.hasMatch(value??" ")) {
+         return null;
+      } else {
+        return 'Enter valid password';
+      }}
 }
