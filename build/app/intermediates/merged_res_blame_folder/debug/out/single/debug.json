@@ -1,98 +1,78 @@
 [
     {
-        "merged": "C:\\Users\\Gehad\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-11:\\mipmap-xxhdpi_logo.png.flat",
-        "source": "C:\\Users\\Gehad\\.gradle\\daemon\\7.5\\com.example.project.app-main-5:\\mipmap-xxhdpi\\logo.png"
+        "merged": "com.example.project.app-merged_res-22:/drawable-hdpi_splash.png.flat",
+        "source": "com.example.project.app-main-15:/drawable-hdpi/splash.png"
     },
     {
-        "merged": "C:\\Users\\Gehad\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-11:\\drawable-v21_launch_background.xml.flat",
-        "source": "C:\\Users\\Gehad\\.gradle\\daemon\\7.5\\com.example.project.app-main-5:\\drawable-v21\\launch_background.xml"
+        "merged": "com.example.project.app-merged_res-22:/mipmap-hdpi_logo.png.flat",
+        "source": "com.example.project.app-main-15:/mipmap-hdpi/logo.png"
     },
     {
-        "merged": "C:\\Users\\Gehad\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-11:\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Gehad\\.gradle\\daemon\\7.5\\com.example.project.app-main-5:\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "com.example.project.app-merged_res-22:/mipmap-xxxhdpi_logo.png.flat",
+        "source": "com.example.project.app-main-15:/mipmap-xxxhdpi/logo.png"
     },
     {
-        "merged": "com.example.project.app-merged_res-11:/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "com.example.project.app-main-5:/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "com.example.project.app-merged_res-22:/drawable-xxhdpi_splash.png.flat",
+        "source": "com.example.project.app-main-15:/drawable-xxhdpi/splash.png"
     },
     {
-        "merged": "C:\\Users\\Gehad\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-11:\\drawable_launch_background.xml.flat",
-        "source": "C:\\Users\\Gehad\\.gradle\\daemon\\7.5\\com.example.project.app-main-5:\\drawable\\launch_background.xml"
+        "merged": "com.example.project.app-merged_res-22:/drawable-xxxhdpi_splash.png.flat",
+        "source": "com.example.project.app-main-15:/drawable-xxxhdpi/splash.png"
     },
     {
-        "merged": "C:\\Users\\Gehad\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-11:\\drawable-xxhdpi_splash.png.flat",
-        "source": "C:\\Users\\Gehad\\.gradle\\daemon\\7.5\\com.example.project.app-main-5:\\drawable-xxhdpi\\splash.png"
+        "merged": "com.example.project.app-merged_res-22:/drawable-xhdpi_splash.png.flat",
+        "source": "com.example.project.app-main-15:/drawable-xhdpi/splash.png"
     },
     {
-        "merged": "C:\\Users\\Gehad\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-11:\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Gehad\\.gradle\\daemon\\7.5\\com.example.project.app-main-5:\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "com.example.project.app-merged_res-22:/drawable-mdpi_splash.png.flat",
+        "source": "com.example.project.app-main-15:/drawable-mdpi/splash.png"
     },
     {
-        "merged": "com.example.project.app-merged_res-11:/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "com.example.project.app-main-5:/mipmap-xhdpi/ic_launcher.png"
+        "merged": "com.example.project.app-merged_res-22:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.project.app-main-15:/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Gehad\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-11:\\drawable_background.png.flat",
-        "source": "C:\\Users\\Gehad\\.gradle\\daemon\\7.5\\com.example.project.app-main-5:\\drawable\\background.png"
+        "merged": "com.example.project.app-merged_res-22:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.project.app-main-15:/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Gehad\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-11:\\mipmap-xxxhdpi_logo.png.flat",
-        "source": "C:\\Users\\Gehad\\.gradle\\daemon\\7.5\\com.example.project.app-main-5:\\mipmap-xxxhdpi\\logo.png"
+        "merged": "com.example.project.app-merged_res-22:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.project.app-main-15:/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.example.project.app-merged_res-11:/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "com.example.project.app-main-5:/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "com.example.project.app-merged_res-22:/drawable-v21_background.png.flat",
+        "source": "com.example.project.app-main-15:/drawable-v21/background.png"
     },
     {
-        "merged": "C:\\Users\\Gehad\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-11:\\drawable-mdpi_splash.png.flat",
-        "source": "C:\\Users\\Gehad\\.gradle\\daemon\\7.5\\com.example.project.app-main-5:\\drawable-mdpi\\splash.png"
+        "merged": "com.example.project.app-merged_res-22:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.project.app-main-15:/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Gehad\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-11:\\drawable-hdpi_splash.png.flat",
-        "source": "C:\\Users\\Gehad\\.gradle\\daemon\\7.5\\com.example.project.app-main-5:\\drawable-hdpi\\splash.png"
+        "merged": "com.example.project.app-merged_res-22:/mipmap-mdpi_logo.png.flat",
+        "source": "com.example.project.app-main-15:/mipmap-mdpi/logo.png"
     },
     {
-        "merged": "C:\\Users\\Gehad\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-11:\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Gehad\\.gradle\\daemon\\7.5\\com.example.project.app-main-5:\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "com.example.project.app-merged_res-22:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.project.app-main-15:/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Gehad\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-11:\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Gehad\\.gradle\\daemon\\7.5\\com.example.project.app-main-5:\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "com.example.project.app-merged_res-22:/mipmap-xhdpi_logo.png.flat",
+        "source": "com.example.project.app-main-15:/mipmap-xhdpi/logo.png"
     },
     {
-        "merged": "C:\\Users\\Gehad\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-11:\\mipmap-hdpi_logo.png.flat",
-        "source": "C:\\Users\\Gehad\\.gradle\\daemon\\7.5\\com.example.project.app-main-5:\\mipmap-hdpi\\logo.png"
+        "merged": "com.example.project.app-merged_res-22:/drawable_launch_background.xml.flat",
+        "source": "com.example.project.app-main-15:/drawable/launch_background.xml"
     },
     {
-        "merged": "C:\\Users\\Gehad\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-11:\\drawable-xhdpi_splash.png.flat",
-        "source": "C:\\Users\\Gehad\\.gradle\\daemon\\7.5\\com.example.project.app-main-5:\\drawable-xhdpi\\splash.png"
+        "merged": "com.example.project.app-merged_res-22:/mipmap-xxhdpi_logo.png.flat",
+        "source": "com.example.project.app-main-15:/mipmap-xxhdpi/logo.png"
     },
     {
-        "merged": "C:\\Users\\Gehad\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-11:\\drawable-xxxhdpi_splash.png.flat",
-        "source": "C:\\Users\\Gehad\\.gradle\\daemon\\7.5\\com.example.project.app-main-5:\\drawable-xxxhdpi\\splash.png"
+        "merged": "com.example.project.app-merged_res-22:/drawable-v21_launch_background.xml.flat",
+        "source": "com.example.project.app-main-15:/drawable-v21/launch_background.xml"
     },
     {
-        "merged": "C:\\Users\\Gehad\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-11:\\mipmap-mdpi_logo.png.flat",
-        "source": "C:\\Users\\Gehad\\.gradle\\daemon\\7.5\\com.example.project.app-main-5:\\mipmap-mdpi\\logo.png"
-    },
-    {
-        "merged": "com.example.project.app-merged_res-11:/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "com.example.project.app-main-5:/mipmap-hdpi/ic_launcher.png"
-    },
-    {
-        "merged": "com.example.project.app-merged_res-11:/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "com.example.project.app-main-5:/mipmap-mdpi/ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\Gehad\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-11:\\drawable-v21_background.png.flat",
-        "source": "C:\\Users\\Gehad\\.gradle\\daemon\\7.5\\com.example.project.app-main-5:\\drawable-v21\\background.png"
-    },
-    {
-        "merged": "C:\\Users\\Gehad\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-11:\\mipmap-xhdpi_logo.png.flat",
-        "source": "C:\\Users\\Gehad\\.gradle\\daemon\\7.5\\com.example.project.app-main-5:\\mipmap-xhdpi\\logo.png"
-    },
-    {
-        "merged": "C:\\Users\\Gehad\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-11:\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Gehad\\.gradle\\daemon\\7.5\\com.example.project.app-main-5:\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "com.example.project.app-merged_res-22:/drawable_background.png.flat",
+        "source": "com.example.project.app-main-15:/drawable/background.png"
     }
 ]

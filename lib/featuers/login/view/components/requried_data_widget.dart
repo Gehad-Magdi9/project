@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:project/core/utilis/validation.dart';
 // ignore: unused_import
-// import 'package:project/featuers/registration/controller/cubit/registration_cubit.dart';
+ import 'package:project/featuers/registration/controller/cubit/registration_cubit.dart';
 
 class LoginRequriedDataWiedget extends StatelessWidget {
   const LoginRequriedDataWiedget({super.key});

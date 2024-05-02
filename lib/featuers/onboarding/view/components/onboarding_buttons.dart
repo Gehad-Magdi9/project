@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:project/featuers/onboarding/controller/cubit/onboarding_controller_cubit.dart';
-import 'package:project/featuers/registration/view/page/registration_page.dart';
+import 'package:project/featuers/authntication/registration/view/page/registration_page.dart';
 // ignore: must_be_immutable
 class OnboardingButtons extends StatelessWidget {
   OnboardingButtons({super.key, required this.controller});

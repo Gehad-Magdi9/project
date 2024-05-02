@@ -1,4 +1,15 @@
 {
+ 
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "project",
+            "request": "launch",
+            "type": "dart"
+        },
+    ]
+}
+/*
   "version": "0.2.0",
   "configurations": [
     {
@@ -21,4 +32,4 @@
       ]
     }
   ]
-}
+}*/

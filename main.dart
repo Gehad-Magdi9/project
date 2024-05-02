@@ -1,25 +1,37 @@
+
+import 'package:flutter/material.dart';
+import 'package:shared_preferences/shared_preferences.dart';
+
+import 'verfication_page.dart';
+
 void main() async {
-    sharedpreference sharedpreference = await sharedpreference.getinstance();
-    bool onboarding = sharedpreference.getbool('onboarding') ?? false;
-    materialapp materialapp = materialapp{ 
-    ongenrateroute: myroute.ongenrateroute,
-    ongenrateinitialroute: (_) => myroute.initroute,
-    }
+    SharedPreferences sharedpreference = await SharedPreferences.getInstance();
+    bool onboarding = sharedpreference.getBool('onboarding') ?? false;
+    // ignore: prefer_const_constructors
+    MaterialApp materialapp = MaterialApp(
+    onGenerateRoute: myroute.onGenerateRoute,
+    onGenerateInitialRoutes: (_) => myroute.initroute,
+    );
 runApp(materialapp);
-};
+}
+
+
+
+
+
 class myroute {
-    static List<route> initroute = [
-        materialpageroute<dynamic>(
-        builder (buildcontext context) => const onboardingpage(),
+    static List<Route> initroute = [
+        MaterialPageRoute<dynamic>(
+      builder: (BuildContext context) => const onboardingpage(),
         ),
-        materialpageroute<dynamic>(
-        builder (buildcontext context) => const registerationpage(),
+        MaterialPageRoute<dynamic>(
+        builder: ( BuildContext context) =>  const registerationpage(),
         ),
-        materialpageroute<dynamic>(
-        builder (buildcontext context) => const verficationpage(),
+        MaterialPageRoute<dynamic>(
+          builder: ( BuildContext context)  => const verficationpage(),
         ),
     ];
-    static route<dynamic> ongenrateroute(routesetting setting) {
-        switch (setting.name){}
+    static Route<dynamic> onGenerateRoute(RouteSettings setting) {
+        switch (setting.name){  }
     }
 }
